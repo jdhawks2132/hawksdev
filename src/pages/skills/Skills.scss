@@ -1,0 +1,16 @@
+.skills-section-header {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+	#skills {
+		margin-top: 40px;
+		width: 100px;
+		padding: 40px;
+	}
+
+	#skillz {
+		width: 60vw;
+	}
+}
