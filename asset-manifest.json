@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hawksdev/static/css/main.a517b890.css",
+    "main.js": "/hawksdev/static/js/main.f68dc3ab.js",
+    "static/media/mountains.svg": "/hawksdev/static/media/mountains.4c2d477718bc102329d0971ace3b3e16.svg",
+    "static/media/laptop.svg": "/hawksdev/static/media/laptop.4f23af51b692ed44c9f30ee7f1132c81.svg",
+    "static/media/Logo.svg": "/hawksdev/static/media/Logo.abc67966ad4422a7c9e72c3f8bf34c71.svg",
+    "static/media/skillslist.svg": "/hawksdev/static/media/skillslist.272aa83b50403e38013924e38a3b27be.svg",
+    "static/media/connect.svg": "/hawksdev/static/media/connect.ece6d956d8603a9217d6c7f09cecda17.svg",
+    "static/media/linkedin.svg": "/hawksdev/static/media/linkedin.6affd93e34a8ff11348760e2f4e8b580.svg",
+    "static/media/skills.svg": "/hawksdev/static/media/skills.63ce9f3b44da7b6eef5234e3b19248b7.svg",
+    "static/media/about.svg": "/hawksdev/static/media/about.ba8505ff2880de1575bcc86037c09463.svg",
+    "static/media/projects.svg": "/hawksdev/static/media/projects.d71203a1fa8359aa792973316a194176.svg",
+    "static/media/github.svg": "/hawksdev/static/media/github.a4cbd3a26efd46e6b347cad1f2c77e8a.svg",
+    "static/media/email.svg": "/hawksdev/static/media/email.3d1910e1d3109aae1ddbda782a0e51a2.svg",
+    "index.html": "/hawksdev/index.html",
+    "static/media/chevron.svg": "/hawksdev/static/media/chevron.d8adb97a31ec4c78e6bb5b11d3b72d3a.svg",
+    "main.a517b890.css.map": "/hawksdev/static/css/main.a517b890.css.map",
+    "main.f68dc3ab.js.map": "/hawksdev/static/js/main.f68dc3ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a517b890.css",
+    "static/js/main.f68dc3ab.js"
+  ]
+}
