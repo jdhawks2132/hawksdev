@@ -2,6 +2,7 @@
 
 # Hi 👋 , I'm Joshua Hawks
 
+[Live Portfolio](https://jdhawks2132.github.io/hawksdev)
 
 Full-stack Software Engineer and graduate of the Flatiron School. My background is in Arts Education and Arts Management and I am excited to put my new skills to work! I am also a classical musician (oboist) and travel enthusiast. 
 
