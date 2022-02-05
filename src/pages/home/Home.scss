@@ -7,12 +7,12 @@
 
 	#laptop {
 		margin-top: 200px;
-		width: 600px;
+		width: 40vw;
 	}
 
 	#chevron {
 		margin-top: 80px;
-		width: 40px;
+		width: 3vw;
 		padding: 20px;
 	}
 }
@@ -33,4 +33,25 @@
 .left-side img {
 	color: var(--highlight-color);
 	width: 25px;
+}
+
+@media only screen and (max-width: 850px) {
+	.home {
+		display: flex;
+		height: 500px;
+		margin: 0 60px;
+		flex-direction: column;
+		align-items: center;
+
+		#laptop {
+			margin-top: 200px;
+			width: 250px;
+		}
+
+		#chevron {
+			margin-top: 80px;
+			width: 30px;
+			padding: 20px;
+		}
+	}
 }

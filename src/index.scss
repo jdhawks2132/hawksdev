@@ -92,3 +92,13 @@ textarea {
 	color: white;
 	background: #a71524;
 }
+
+@media only screen and (max-width: 650px) {
+	.secondary {
+		font-size: 1em;
+	}
+
+	.tertiary {
+		font-size: 0.75em;
+	}
+}

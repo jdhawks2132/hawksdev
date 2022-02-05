@@ -9,10 +9,6 @@
 		width: 300px;
 		padding: 40px;
 	}
-
-	#skillz {
-		width: 60vw;
-	}
 }
 
 .connect-card {
@@ -43,5 +39,21 @@
 	img {
 		width: 3vw;
 		padding: 20px;
+	}
+}
+
+@media only screen and (max-width: 650px) {
+	.connect-card {
+		width: 300px;
+	}
+	.connect-btns {
+		display: flex;
+		justify-content: space-between;
+		align-items: flex-end;
+		width: auto;
+		img {
+			width: 25px;
+			padding: 20px;
+		}
 	}
 }
