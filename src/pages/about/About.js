@@ -17,7 +17,7 @@ function About() {
 					creative process behind design and problem solving.
 				</p>
 				<p>
-					I am passionate about helping others learn to code have served as a
+					I am passionate about helping others learn to code and serve as a
 					Cohort Team Lead for the Dallas FreeCodeCamp group. Our cohorts work
 					on small projects throughout the year to offer growing developers a
 					chance to work and learn in a collaborative environment. In addition
