@@ -12,11 +12,9 @@ function About() {
 			</div>
 			<div className='about-content'>
 				<p>
-					Full-stack Software Engineer with a background in education and
-					design. My 15+ years as a Band Director provides me with tools I use
-					daily as a developer such as creativity, communication,
-					resourcefulness, and grit. As a Full-stack Developer, I love the
-					creative process behind design and problem solving.
+					Full-stack Software Engineer at the Texas School Safety Center with a
+					background in education and design. As a Full-stack Developer, I love
+					the creative process behind design and problem solving.
 				</p>
 				<p>
 					I am a freelance classical musician (oboe and bassoon) and graphic
