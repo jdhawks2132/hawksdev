@@ -5,7 +5,7 @@ import './Footer.scss';
 
 function Footer() {
 	return (
-		<div className='footer'>
+		<div className='footer' role='contentinfo'>
 			<img src={Mountains} alt='line art mountains' />
 		</div>
 	);
