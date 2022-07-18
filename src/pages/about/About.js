@@ -13,7 +13,7 @@ function About() {
 			<div className='about-content'>
 				<p>
 					Full-stack Software Engineer at the Texas School Safety Center with a
-					background in education and design. As a Full-stack Developer, I love
+					background in education. As a Full-stack Developer, I love
 					the creative process behind design and problem solving.
 				</p>
 				<p>
